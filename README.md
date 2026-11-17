@@ -3,6 +3,7 @@
 <img src="https://bioinfo.guru/images/logo.svg" alt="bioinfo.guru" width="75">
 
 # bioinfo.guru
+
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=22&duration=3000&pause=1000&color=9c51e0&center=true&vCenter=true&width=500&lines=learn+from+the+guru;learn+from+the+best;learn+from+the+expert)](https://git.io/typing-svg)
 ### Empowering biologists with practical bioinformatics skills
 
