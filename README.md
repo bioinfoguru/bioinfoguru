@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="https://bioinfo.guru/images/logo.svg" alt="bioinfo.guru" width="100">
+<img src="https://bioinfo.guru/images/logo.svg" alt="bioinfo.guru" width="75">
 
 # bioinfo.guru
 
